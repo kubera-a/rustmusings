@@ -11,5 +11,8 @@ which I have found to not be as tight as I want in my feedback loop.
 
 [A most definitely not half hour guide to learning rust](https://fasterthanli.me/articles/a-half-hour-to-learn-rust#orphan-rules)
 
-Rust Projects and musings
+## Structure
 
+- `rustlings/exercises/` — My solved rustlings exercises
+- `notes/` — Write-ups and learning notes
+- `projects/` — Future Rust projects
